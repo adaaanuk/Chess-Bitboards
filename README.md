@@ -30,3 +30,7 @@ Computers do not inherently understand chessboard boundaries. Masks selectively 
 **Key takeaway**
 
 Bitboards demonstrate how relatively simple binary operations can be combined to efficiently solve complex problems.
+
+**Additional Materials**
+https://canva.link/49fa1adl6jtn6t7
+https://chatgpt.com/share/6afeaeaf-0b88-83ea-b909-cf3645d5039b
