@@ -1,5 +1,6 @@
 # Chess-Bitboards
 Exploring the foundations of Chess Bitboards
+
 **Introduction**
 
 Chess engines need to efficiently represent chessboard positions and calculate possible moves. One approach is through bitboards, which use 64-bit integers to represent the 64 squares of a chessboard.
@@ -11,6 +12,7 @@ In this project, I explored how bitboards work, how bitwise operators manipulate
 - Bitwise operators: AND, OR, XOR, and shifts.
 - Hexadecimal representation of bit masks.
 - Edge wraparound and how masks prevent it.
+
 **Interesting discoveries**
 
 1. Representing an entire chessboard using 64 bits
